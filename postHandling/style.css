@@ -1,4 +1,6 @@
-
+*{
+    background-origin: padding-box;
+}
 
 body{
     align-tracks: calc(12);
