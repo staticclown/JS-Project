@@ -1,4 +1,7 @@
 *{
+    background-origin: padding-box;
+}
+*{
     margin: 0px;
     padding: auto;
 }
